@@ -1,2 +1,1 @@
-# diagrams-draw-io
-Draw.io Diagrams
+# Draw.io Diagrams
